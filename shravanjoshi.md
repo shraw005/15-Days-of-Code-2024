@@ -23,3 +23,26 @@ https://www.codechef.com/viewsolution/1100926051
 https://www.codechef.com/viewsolution/1100874177
 
 https://www.codechef.com/viewsolution/1100987747
+
+
+### Day 2
+
+10-24-2024
+
+- Solved q6,q7 and q8 of 1000 rating from TLE. 
+Submission links : 
+
+https://codeforces.com/contest/1840/submission/287624143
+
+https://codeforces.com/contest/1831/submission/287646670
+
+https://codeforces.com/contest/1791/submission/287648877
+
+- Attended Codeforces contest and solved problems A,B and D.
+Submission links :
+
+A - https://codeforces.com/contest/2033/submission/287689698
+
+B - https://codeforces.com/contest/2033/submission/287762007
+
+D - https://codeforces.com/contest/2033/submission/287750400
