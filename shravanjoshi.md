@@ -46,3 +46,17 @@ A - https://codeforces.com/contest/2033/submission/287689698
 B - https://codeforces.com/contest/2033/submission/287762007
 
 D - https://codeforces.com/contest/2033/submission/287750400
+
+
+### Day 3
+
+10-25-2024
+
+- Solved q10,q11 and q12 of 1000 rating from TLE. 
+Submission links : 
+
+https://codeforces.com/problemset/submission/1744/287895591
+
+https://codeforces.com/problemset/submission/1725/287897730
+
+https://codeforces.com/problemset/submission/1715/287944412
