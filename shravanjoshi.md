@@ -60,3 +60,23 @@ https://codeforces.com/problemset/submission/1744/287895591
 https://codeforces.com/problemset/submission/1725/287897730
 
 https://codeforces.com/problemset/submission/1715/287944412
+
+
+### Day 4
+
+10-26-2024
+
+- Solved q13,q14 and q15 of 1000 rating from TLE. 
+Submission links : 
+
+https://codeforces.com/contest/1704/submission/288035117
+
+https://codeforces.com/contest/1691/submission/288066310
+
+https://codeforces.com/contest/1690/submission/288069249
+
+- Attended Leetcode contest and solved first problem.
+Submission links :
+
+https://leetcode.com/problems/find-the-original-typed-string-i/submissions/1434272441/
+
