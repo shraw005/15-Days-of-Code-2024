@@ -80,3 +80,15 @@ Submission links :
 
 https://leetcode.com/problems/find-the-original-typed-string-i/submissions/1434272441/
 
+
+### Day 5
+
+10-27-2024
+
+- Solved q16 and q17 of 1000 rating from TLE.
+Submission links :
+
+https://codeforces.com/contest/1659/submission/288226002
+
+https://codeforces.com/contest/1632/submission/288268157
+
