@@ -92,3 +92,15 @@ https://codeforces.com/contest/1659/submission/288226002
 
 https://codeforces.com/contest/1632/submission/288268157
 
+
+### Day 6
+
+10-28-2024
+
+- Solved q18 and q19 of 1000 rating from TLE.
+Submission links :
+
+https://codeforces.com/contest/1620/submission/288453012
+
+https://codeforces.com/contest/1614/submission/288500132
+
