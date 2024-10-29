@@ -104,3 +104,13 @@ https://codeforces.com/contest/1620/submission/288453012
 
 https://codeforces.com/contest/1614/submission/288500132
 
+
+### Day 7
+
+10-29-2024
+
+- Solved q20 of 1000 rating from TLE.
+Submission links :
+
+https://codeforces.com/contest/1506/submission/288734111
+
