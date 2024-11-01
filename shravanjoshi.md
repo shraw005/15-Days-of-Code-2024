@@ -114,3 +114,14 @@ Submission links :
 
 https://codeforces.com/contest/1506/submission/288734111
 
+
+### Day 10
+
+11-01-2024
+
+- Solved q22 and q24 of 1000 rating from TLE.
+Submission links :
+
+https://codeforces.com/problemset/submission/1485/289175353
+
+https://codeforces.com/problemset/submission/1447/289176133
