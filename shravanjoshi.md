@@ -125,3 +125,15 @@ Submission links :
 https://codeforces.com/problemset/submission/1485/289175353
 
 https://codeforces.com/problemset/submission/1447/289176133
+
+
+### Day 11
+
+11-02-2024
+
+- Solved q20 and q26 of 1000 rating from TLE.
+Submission links :
+
+https://codeforces.com/contest/1567/submission/289425051
+
+https://codeforces.com/contest/1418/submission/289432301
