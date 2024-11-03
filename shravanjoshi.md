@@ -137,3 +137,18 @@ Submission links :
 https://codeforces.com/contest/1567/submission/289425051
 
 https://codeforces.com/contest/1418/submission/289432301
+
+
+### Day 12
+
+11-03-2024
+
+- Solved q27 to q31 of 1000 rating from TLE.
+Submission links :
+
+https://codeforces.com/problemset/submission/1411/289779251
+https://codeforces.com/problemset/submission/1374/289783915
+https://codeforces.com/problemset/submission/1362/289787944
+https://codeforces.com/problemset/submission/1312/289788932
+https://codeforces.com/problemset/submission/1155/289790544
+
