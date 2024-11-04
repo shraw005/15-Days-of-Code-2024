@@ -157,4 +157,20 @@ https://codeforces.com/problemset/submission/1312/289788932
 https://codeforces.com/problemset/submission/1155/289790544
 
 
+### Day 13
+
+11-04-2024
+
+- Solved q25 of 1000 rating from TLE.
+- Watched video solution of q23.
+
+Submission links :
+
+https://codeforces.com/problemset/submission/1474/289918767
+
+https://codeforces.com/problemset/submission/1438/289891640
+
+Video link : 
+
+https://youtu.be/Dq9z58C-DHQ?si=1XHpTNOubb8NoZsD
 
