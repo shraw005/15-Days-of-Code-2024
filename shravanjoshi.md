@@ -174,3 +174,14 @@ Video link :
 
 https://youtu.be/Dq9z58C-DHQ?si=1XHpTNOubb8NoZsD
 
+
+
+### Day 14
+
+11-05-2024
+
+- Solved q2 of 1100 rating from TLE.
+  
+Submission links :
+
+https://codeforces.com/problemset/submission/1914/290121951
