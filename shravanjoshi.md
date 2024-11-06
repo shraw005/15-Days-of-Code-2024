@@ -185,3 +185,18 @@ https://youtu.be/Dq9z58C-DHQ?si=1XHpTNOubb8NoZsD
 Submission links :
 
 https://codeforces.com/problemset/submission/1914/290121951
+
+
+### Day 15
+
+11-06-2024
+
+- Attended codechef contest and solved 2 problems.
+  
+Submission links :
+
+https://www.codechef.com/viewsolution/1104491453
+
+https://www.codechef.com/viewsolution/1104530495
+
+
